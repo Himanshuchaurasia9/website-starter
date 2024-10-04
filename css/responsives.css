@@ -1,0 +1,31 @@
+/* Media Queries */
+
+/* Extra Small Devices (Portrait Phones, up to 480px) */
+@media (max-width: 480px) {}
+
+/* Small Devices (Landscape Phones, 481px to 600px) */
+@media (min-width: 481px) and (max-width: 600px) {}
+
+/* Mobile Devices (up to 600px) */
+@media (max-width: 600px) {}
+
+/* Medium Devices (Tablets, 601px to 768px) */
+@media (min-width: 601px) and (max-width: 768px) {}
+
+/* Large Tablets (768px to 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {}
+
+/* Small Desktops (900px to 1200px) */
+@media (min-width: 901px) and (max-width: 1200px) {}
+
+/* Small Laptops (1024px to 1280px) */
+@media (min-width: 1024px) and (max-width: 1280px) {}
+
+/* Large Laptops/Desktops (1281px to 1440px) */
+@media (min-width: 1281px) and (max-width: 1440px) {}
+
+/* Large Desktops (1200px and above) */
+@media (min-width: 1201px) {}
+
+/* Extra Large Desktops (1441px and above) */
+@media (min-width: 1441px) {}
