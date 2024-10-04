@@ -20,7 +20,7 @@ To get started with the Website Starter Project, follow these simple steps:
 
 ```bash
 
-git clone https://github.com/himanshuchaurasia9/website-starter.git
+git clone [https://github.com/himanshuchaurasia9/website-starter.git](https://github.com/Himanshuchaurasia9/website-starter.git)
 
 ```
 - Navigate to the Project Directory:
